@@ -9,7 +9,7 @@ categories:
   - Featured
 sources:
   - https://github.com/codefresh-contrib/k8s-blue-green-deployment
-icon: 'https://raw.githubusercontent.com/codefresh-io/plugins/new-pipeline/plugins/vault/logo.jpg'
+icon: https://github.com/codefresh-plugins/k8s-blue-green-deployment/blob/master/icon.jpg
 maintainers:
   - name: Kostis Kapelonis
 envs:
