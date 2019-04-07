@@ -7,6 +7,7 @@ keywords:
   - deployment
 categories:
   - Featured
+  - Deployment
 sources:
   - https://github.com/codefresh-contrib/k8s-blue-green-deployment
 icon: https://raw.githubusercontent.com/codefresh-plugins/k8s-blue-green-deployment/master/icon.jpg
