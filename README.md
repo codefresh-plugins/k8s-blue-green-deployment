@@ -67,7 +67,7 @@ For the `KUBE_CONTEXT` environment variable just use the name of your cluster as
 ```
   blueGreenDeploy:
     title: "Deploying new version ${{CF_SHORT_REVISION}}"
-    image: codefresh/k8s-blue-green:master
+    image: codefreshplugins/k8s-blue-green
     environment:
       - SERVICE_NAME=my-demo-app
       - DEPLOYMENT_NAME=my-demo-app

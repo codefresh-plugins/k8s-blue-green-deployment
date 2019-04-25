@@ -3,7 +3,7 @@ steps:
   BuildImage:
     title: Building Docker Image
     type: build
-    image_name: codefreshplugins/k8s-blue-green-deployment
+    image_name: codefreshplugins/k8s-blue-green
   PushingToRegistry:
     type: push
     title: Pushing To Registry
